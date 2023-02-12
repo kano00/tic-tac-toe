@@ -8,3 +8,6 @@ Reference: [React Tutorial Japanese version](https://ja.reactjs.org/tutorial/tut
 
 #### After Tutorial:
 <img src="./img/Finished.png"  width="100" height="100">
+
+#### Advanced feature:
+<img src="./img/time-travel.png"  width="100" height="100">
