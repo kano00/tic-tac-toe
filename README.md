@@ -10,4 +10,4 @@ Reference: [React Tutorial Japanese version](https://ja.reactjs.org/tutorial/tut
 <img src="./img/Finished.png"  width="100" height="100">
 
 #### Advanced feature:
-<img src="./img/time-travel.png"  width="100" height="100">
+<img src="./img/time-travel.png"  width="200" height="100">
